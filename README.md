@@ -14,3 +14,7 @@
 ### accesstokensecret = ""
 
 ### Then you are done!
+
+Features That should come soon
+[^1]: Video Support
+[^2]: Deleting Tweets
