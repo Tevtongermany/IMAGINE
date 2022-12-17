@@ -9,7 +9,7 @@
 ### https://developer.twitter.com/en/portal/products/elevated
 ### after you got elevated access fill out all of these in the keys.py
 ### apikey = ""
-### ### apisecret = ""
+### apisecret = ""
 ### accesstoken = ""
 ### accesstokensecret = ""
 
