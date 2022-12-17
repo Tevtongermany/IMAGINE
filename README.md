@@ -1,4 +1,7 @@
 # IMAGINE
 a Posting tool for the twitter api
 Here Is a small Example
-![](2022-12-17 22-02-43.gif)
+https://i.imgur.com/Sp43af5.mp4
+
+you need to fill out the keys.py yourself
+https://developer.twitter.com/en/portal/products/elevated
